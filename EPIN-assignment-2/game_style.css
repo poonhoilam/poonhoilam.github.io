@@ -1,0 +1,28 @@
+h1 {
+    background-color: navy;
+    color: lightcyan;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-width: 10px;
+    border-color: lightblue;
+    border-style: double;
+    font-family: fantasy;
+    font-size: -webkit-xxx-large;
+}
+
+p{
+  text-align: center;
+  font-size: x-large;
+  font-family: fantasy;
+  color: darkblue;
+  border: black;
+  border-style: solid;
+}
+
+div{
+  font-size: x-large;
+  font-family: fantasy;
+  color: initial;
+  text-align: center;
+}
